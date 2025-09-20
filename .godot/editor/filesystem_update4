@@ -1,0 +1,14 @@
+res://main.tscn
+res://scenes/game_over.tscn
+res://scenes/hud.tscn
+res://scenes/player.tscn
+res://scenes/trap.tscn
+res://scenes/menu.tscn
+res://scenes/apple.tscn
+res://scenes/control.gd
+res://scenes/apple.gd
+res://manager.gd
+res://scenes/game_won.gd
+res://scenes/game_won.tscn
+res://scenes/game_over.gd
+res://scenes/player.gd

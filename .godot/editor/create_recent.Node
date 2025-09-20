@@ -1,0 +1,14 @@
+CanvasLayer
+TextureRect
+HBoxContainer
+Label
+Timer
+Camera2D
+AnimationTree
+Button
+VBoxContainer
+MultiplayerSpawner
+AnimatedSprite2D
+CollisionShape2D
+Area2D
+MarginContainer
